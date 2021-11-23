@@ -42,6 +42,13 @@ Note: This was built on MAC
 gradle build
 ----
 
+Build then can be found under
+----
+build/libs
+----
+
+You have to copy the .jar file in a directory called libs in the dshackle repo
+
 == License
 
 Copyright 2021 EmeraldPay, Inc
