@@ -33,6 +33,15 @@ git submodule update --remote
 git commit api-definitions
 ----
 
+== Personal Notes
+
+.To build
+
+Note: This was built on MAC
+----
+gradle build
+----
+
 == License
 
 Copyright 2021 EmeraldPay, Inc
